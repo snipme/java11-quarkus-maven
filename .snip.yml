@@ -1,0 +1,17 @@
+description: |
+  Java 11, Quarkus and Apache Maven
+placeholders:
+  strict: yes
+  spec:
+    - name: __c_restpath_
+      pattern: "/[a-z0-9/]+"
+      label: RESTful Resource Path
+    - name: __c_domain_
+      pattern: '[A-Z][\w]+'
+      label: Class name for Domain
+post:
+  script:
+    linux:
+      - ./mvnw clean install
+    windows:
+      - .\mvnw.cmd clean install
