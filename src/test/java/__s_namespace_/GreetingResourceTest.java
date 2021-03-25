@@ -1,4 +1,4 @@
-package org.acme.getting.started;
+package __s_namespace_;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
