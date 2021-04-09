@@ -1,4 +1,4 @@
-# __s_app_
+# __s_name_
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
