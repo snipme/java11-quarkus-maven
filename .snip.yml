@@ -11,4 +11,4 @@ post:
     linux:
       - ./mvnw clean install
     windows:
-      - .\mvnw.cmd clean install
+      - mvnw.cmd clean install
