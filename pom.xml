@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>__s_namespace_</groupId>
-  <artifactId>__s_app_</artifactId>
+  <artifactId>__s_name_</artifactId>
   <version>__s_version_</version>
 
   <properties>
